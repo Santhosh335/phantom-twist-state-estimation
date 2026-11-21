@@ -1,0 +1,34 @@
+{
+  "0.05": {
+    "on_final_mean": 0.336302939787214,
+    "on_final_std": 0.20984821255652128,
+    "off_final_mean": 4.348954521210965,
+    "off_final_std": 3.717490371086186,
+    "on_frac_mean": 0.0,
+    "off_frac_mean": 0.4530479223761203
+  },
+  "0.15": {
+    "on_final_mean": 0.31454515675637496,
+    "on_final_std": 0.19260208941143464,
+    "off_final_mean": 10.446102583041927,
+    "off_final_std": 9.934191794039457,
+    "on_frac_mean": 0.0,
+    "off_frac_mean": 0.7774201910969558
+  },
+  "0.3": {
+    "on_final_mean": 0.36284334336616986,
+    "on_final_std": 0.18584177475296185,
+    "off_final_mean": 13.823631768685328,
+    "off_final_std": 10.811864376430055,
+    "on_frac_mean": 0.0,
+    "off_frac_mean": 0.8861158432708688
+  },
+  "0.5": {
+    "on_final_mean": 0.4355974897184106,
+    "on_final_std": 0.19286089378258117,
+    "off_final_mean": 14.497530729114041,
+    "off_final_std": 11.224993339062904,
+    "on_frac_mean": 0.0,
+    "off_frac_mean": 0.9329345974372268
+  }
+}
