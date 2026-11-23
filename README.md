@@ -1,4 +1,4 @@
-> **Update (Oct 2026):** This was revised based on direct feedback from Jingxian Wang (co-first author, Phantom Twist) — the original design assumed a working onboard gyro, which doesn't survive the drone's spin rate. See v2/README_v2.md for the corrected approach, the bug I found and fixed, and the updated results.
+**Update (Nov 2026):** Further revised after finding the actual published paper and a second round of feedback from Jingxian Wang — v2's gyro-free model has been rebuilt around the paper's real control law and evaluated against the paper's own stated 5ms actuation-timing failure threshold. See v3/README_v3.md for the full story and results.
 # Onboard state estimation for a spinning-body UAV (Phantom Twist)
 
 A simulation study of self-localization for a Phantom-Twist-style drone
